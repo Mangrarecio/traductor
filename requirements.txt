@@ -1,5 +1,7 @@
 streamlit
 googletrans==4.0.0-rc1
+httpx==0.13.3
+setuptools
 PyPDF2
 python-docx
 pandas
